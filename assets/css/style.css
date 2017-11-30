@@ -1,0 +1,312 @@
+@media only screen and (max-width: 980px) {
+	/* Desktop */
+}
+
+html {
+	background: #D3D3D3;
+}
+
+.headerbox {
+	background-color: #ffffff;
+	height: 85px;
+	width: 100%;
+	position: relative;
+	z-index: -2;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-color: #808080;
+	top: -10px;
+}
+
+.header {
+	position: relative;
+}
+
+.headtab {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	position: relative;
+	left: 30px;
+	width: 240px;
+	height: 85px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 85px;
+}
+
+.navbar {
+	position: relative;
+	float: right;
+	top: -50px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	word-spacing: 20px;
+	color: #777777;
+	right: 150px;
+}
+
+.body {
+	position: relative;
+}
+
+.connectbox {
+	position: relative;
+	float: right;
+	width: 270px;
+	height: 200px;
+	background-color: #ffffff;
+	text-align: center;
+	right: -125px;
+	top: 16px;
+}
+
+.connect {
+	color: #4aaaa5;
+	position: relative;
+	width: 650px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+	color: #4aaaa5;
+	position: relative;
+	width: 650px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	left: 18px;
+}
+
+h3 {
+	background-color: #ffffff;
+	width: 270px;
+	height: 200px;
+	display: inline;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+	text-align: center;
+	font-size: 22px;
+	float: right;
+	left: 30px;
+}
+
+.logos {
+	position: absolute;
+	z-index: 1;
+	word-spacing: 20px;
+	top: 100px;
+	left: 15%;
+}
+
+.content-box {
+	width: 650px;
+	height: 300px;
+	padding: 3px;
+	background-color: #ffffff;
+	z-index: -1;
+	top: 100px;
+}
+
+.content {
+	width: 650px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding-left: 30px;
+	position: relative;
+}
+
+.portrait {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.bio {
+	padding-right: 10px;
+}
+
+.hangman-group {
+	position: relative;
+	float: left;
+	left: 20px;
+	width: 300px;
+	height: 200px;
+	top: -75px;
+}
+
+.hangman {
+	width: 300px;
+	height: 50px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	top: 210px;
+	left: -40px;
+	line-height: 50px;
+}
+
+.hangman-img {
+	position: relative;
+}
+
+.rpg-group {
+	position: relative;
+	float: right;
+	width: 300px;
+	height: 200px;
+	right: 20px;
+	top: -75px;
+}
+
+.rpg {
+	width: 300px;
+	height: 50px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	top: 210px;
+	right: 40px;
+	line-height: 50px;
+}
+
+.rpg-img {
+	position: relative;
+}
+
+.trivia-group {
+	position: relative;
+	float: left;
+	left: 20px;
+	width: 300px;
+	height: 200px;
+	padding-top: 20px;
+	top: -75px;
+}
+
+.trivia {
+	width: 300px;
+	height: 50px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	top: 210px;
+	left: -40px;
+	line-height: 50px;
+}
+
+.trivia-img {
+	position: relative;
+}
+
+.widget-group {
+	position: relative;
+	float: right;
+	right: 20px;
+	width: 300px;
+	height: 200px;
+	padding-top: 20px;
+	top: -75px;
+}
+
+.widget {
+	width: 300px;
+	height: 50px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	top: 210px;
+	right: 40px;
+	line-height: 50px;
+}
+
+.widget-img {
+	position: relative;
+}
+
+.rps-group {
+	position: relative;
+	float: left;
+	left: 20px;
+	width: 300px;
+	height: 200px;
+	padding-top: 20px;
+	top: -75px;
+}
+
+.rock-paper-scissors {
+	width: 300px;
+	height: 50px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	top: 210px;
+	left: -40px;
+	line-height: 50px;
+}
+
+.rock-paper-scissors-img {
+	position: relative;
+}
+
+form {
+	padding-left: 18px;
+}
+
+.button {
+	background-color: #4aaaa5;
+	text-align: center;
+	color: #ffffff;
+	border: none;
+	padding: 15px 32px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 15px;
+	padding-top: 10px;
+}
+
+.footer {
+	clear: both;
+	background-color: #666666;
+	position: absolute;
+	border-color: #4aaaa5;
+	border-style: solid;
+	border-top-width: 20px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	text-align: center;
+	color: #ffffff;
+	height: 100px;
+	width: 100%;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	bottom: -475px;
+	line-height: 150px;
+	font-size: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+	.content-box {
+		width: 325px;
+	}
+
+	.connectbox {
+	}
+}
+
+@media only screen and (max-width: 640px) {
+
+}
